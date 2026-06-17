@@ -1,6 +1,6 @@
 # Traitement automatique de manuscrits anciens : un pipeline de reconnaissance d'écriture manuscrite (HTR) pour le vieux et moyen français
 
-*Master Data/IA, module Vision par ordinateur, MD5 2026 — Benzouine Rime, Bouchhar Fatima Ezzahra, El Abaddy Badr. Établissement à compléter.*
+*Master Data/IA, module Vision par ordinateur, MD5 2026 — Benzouine Rime, Bouchhar Fatima Ezzahra, El Abbady Badr. HETIC
 
 ---
 
